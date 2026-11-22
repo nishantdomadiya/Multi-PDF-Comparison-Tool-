@@ -93,9 +93,3 @@ Sample comparison documents are included in `sample_docs/`.
 3. Click **"Generate Comparison Table & Analysis"** to see side-by-side comparison tables.
 
 ---
-
-## 📊 Evaluation Criteria & Marks Breakdown
-- **Problem understanding & prompt design (2 marks):** Multi-retriever isolation and structured Markdown table prompt engineering.
-- **Working implementation (4 marks):** Fully working text extraction, chunking, retrieval, and LLM synthesis.
-- **Simple UI / demo (2 marks):** Modern, responsive Streamlit dashboard with tabs, status cards, and preset queries.
-- **Report & testing on sample inputs (2 marks):** Comprehensive 2-page procedure report and verified test cases.
